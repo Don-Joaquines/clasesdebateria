@@ -1,0 +1,149 @@
+/* Estilos Generales */
+
+body {
+    background: linear-gradient(#000, rgb(41, 41, 41));
+    background-color: black;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.home {
+    margin-top: 5em;
+    margin-bottom: 5em;
+}
+
+h1,
+h2,
+h3,
+a,
+img,
+#mail-contacto,
+.color-premios {
+    color: #00D1B2;
+}
+
+p {
+    color: #fff;
+}
+
+#logo-clases-de-bateria {
+    width: 540px;
+}
+
+::selection {
+    background-color: #00D1B2;
+    color: black;
+}
+
+.texto-cita {
+    font-style: italic;
+    text-align: center;
+}
+
+.bi-instagram,
+.bi-capsule,
+.bi-coin,
+.bi-people,
+.bi-file-music,
+.bi-diagram-2-fill,
+.bi-trash3,
+.bi-boombox,
+.bi-piggy-bank {
+    color: #00D1B2;
+    font-size: 2.5em;
+}
+
+.bi-youtube {
+    color: #00D1B2;
+    font-size: 2.5em;
+    text-align: center;
+}
+
+.bi-envelope {
+    font-size: 2.5em;
+}
+
+.bi-music-note-beamed,
+.bi-music-note {
+    font-size: 2.5em;
+    color: #00D1B2;
+    text-decoration: underline;
+}
+
+.english {
+    color: #00D1B2;
+}
+
+footer p {
+    color: rgb(86, 86, 86);
+    font-size: 0.8em;
+}
+
+a:hover,
+.bi-instagram:hover,
+.bi-youtube:hover {
+    color: white;
+}
+
+strong {
+    font-weight: normal;
+}
+
+#trabajando-para-usted {
+    font-size: 0.9em;
+    color: rgb(86, 86, 86);
+}
+
+.corcheas {
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
+
+.tip-de-interpretacion {
+    font-weight: 700;
+}
+
+#corcheas-molotov {
+    display: block;
+}
+
+/* Estilos Peces - Francisca Valenzuela */
+.texto-cita-peces {
+    font-style: italic;
+    text-align: center;
+}
+
+/* Estilos Hit Me - Molotov */
+.texto-cita-molotov {
+    font-style: italic;
+}
+
+/* Estilo Sacar la Basura - Los Ex */
+.texto-cita-sacar-la-basura {
+    font-style: italic;
+}
+
+/* Estilos El Hijo de Hernandez */
+.texto-cita-el-hijo-de-hernandez {
+    font-style: italic;
+}
+
+/* Estilos Cha Cha Cha */
+
+.bi-boombox-fill {
+    display: block;
+    text-align: center;
+    font-size: 2.5em;
+    color: #00D1B2;
+}
+
+.bi-quote {
+    font-size: 1.8em;
+}
+
+/* Estilos Lo malo de ser bueno */
+.lo-malo-de-ser-bueno-contenedor {
+    margin-top: 2.5em;
+}
